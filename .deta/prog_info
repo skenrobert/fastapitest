@@ -1,0 +1,1 @@
+{"id":"6e3a0688-09f6-4d94-a965-0cef83f66ff0","space":51311,"runtime":"python3.9","name":"fastapitest","path":"j8h2ff","project":"e0lj1gfq","account":"144798365827","region":"sa-east-1","deps":["fastapi","python-jose","passlib","bcrypt","pymongo","python-multipart"],"envs":null,"public":true,"log_level":"debug","cron":""}
